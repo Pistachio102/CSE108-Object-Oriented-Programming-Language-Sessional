@@ -1,0 +1,70 @@
+Please select your choice:
+1. Circle
+2. Cylinder
+3. Sphere
+4. Square
+5. Cube
+1
+Enter radius: 1.5
+Name: Circle1
+Area: 7.0686
+
+Please select your choice:
+1. Circle
+2. Cylinder
+3. Sphere
+4. Square
+5. Cube
+2
+Enter radius: 1
+Enter height: 2
+Name: Cylinder1
+Area of the base: 3.1416
+Area of surface: 12.5664
+Volume: 6.2832
+
+Please select your choice:
+1. Circle
+2. Cylinder
+3. Sphere
+4. Square
+5. Cube
+2
+Enter radius: 2
+Enter height: 1
+Name: Cylinder2
+Area of the base: 12.5664
+Area of surface: 12.5664
+Volume: 12.5664
+
+Please select your choice:
+1. Circle
+2. Cylinder
+3. Sphere
+4. Square
+5. Cube
+4
+Enter length: 2
+Name: Square1
+Volume: 4
+
+Please select your choice:
+1. Circle
+2. Cylinder
+3. Sphere
+4. Square
+5. Cube
+5
+Enter length: -1
+You can not enter a negative value.
+
+Please select your choice:
+1. Circle
+2. Cylinder
+3. Sphere
+4. Square
+5. Cube
+1
+Enter radius: 1.5
+Name: Circle2
+Area: 7.0686
